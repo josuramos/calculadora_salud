@@ -13,6 +13,11 @@ El programa incluye validaciones de entrada para asegurar que el usuario introdu
 - Recomendaciones nutricionales personalizadas según el objetivo del usuario.
 - Validación robusta de entradas para evitar errores de usuario.
 
+## Capturas de la interfaz
+![](screenshots/salud1.png)
+![](screenshots/salud2.png)
+![](screenshots/salud3.png)
+
 ## Cómo usar
 1. Ejecuta el archivo con Python 3:
 ```bash
