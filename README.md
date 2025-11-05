@@ -21,7 +21,7 @@ El programa incluye validaciones de entrada para asegurar que el usuario introdu
 ## Cómo usar
 1. Ejecuta el archivo con Python 3:
 ```bash
-python gestor_pedidos.py
+python calculadora_salud.py
 ```
 2. Sigue las instrucciones en pantalla para introducir tus datos.
 3. Recibe tus resultados y recomendaciones personalizadas.
